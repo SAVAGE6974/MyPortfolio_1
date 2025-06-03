@@ -260,3 +260,33 @@ img {
     font-family: DINNextW1G, Inter, sans-serif;
     transform: translate(8.2em, 2em);
 }
+
+.yourMap {
+    width: 100%;
+    height: auto;
+    position: inherit;
+}
+
+.yourMapText {
+    position: absolute;
+    top: 50%;
+    left: 50%; 
+    transform: translateY(150em)
+}
+
+.yourMapText h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5.5em;
+    transform: translate(-7.65em, -0.1em);
+}
+
+.yourMapText h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    transform: translate(-42rem, -1rem);
+}
+
+.yourMapText p {
+    font-family: DINNextW1G, Inter, sans-serif;
+    transform: translate(-42rem, 1rem);
+}
